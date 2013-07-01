@@ -1,0 +1,28 @@
+// Place all the styles related to the items controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.list_line_even {
+  background: #e0f8f8;
+}
+
+.list_line_odd {
+  background: #f8b0f8;
+}
+
+th.image {
+  width: 200px;
+  background: "#999999";
+}
+
+th.item_code {
+  width: 300px;
+  background: "#999999";
+}
+
+th.method {
+  width: 100px;
+  background: "#999999";
+}
+
